@@ -10,7 +10,7 @@
 
 ![Desafio](https://raw.githubusercontent.com/wekers/imageConvert-toGrayAndBinary/refs/heads/main/img/Desafio_Reducao_Img.png)
 
-**ADENDO:** O professor mencionou no video explicativo da atividade a não utilizar bibliotecas externas, converter a image via harcode.
+**ADENDO:** O professor mencionou no video explicativo da atividade a não utilizar bibliotecas externas, converter a image via hardcode.
 - - -
 <br/>
 
