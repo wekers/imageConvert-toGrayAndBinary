@@ -9,7 +9,7 @@
 
 ![Challenge](https://raw.githubusercontent.com/wekers/imageConvert-toGrayAndBinary/refs/heads/main/img/Desafio_Reducao_Img.png)
 
-**NOTE:** The professor mentioned in the explanatory video of the activity not to use external libraries but to convert the image via hardcode.
+**NOTE:** The professor have say in the explanatory video of the activity, do not use external libraries, but convert the image via hardcode.
 - - -
 <br/>
 
