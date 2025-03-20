@@ -7,7 +7,7 @@
 - [English version of the README content](README.us.md)
 ---
 
-![Challenge](https://raw.githubusercontent.com/wekers/imageConvert-toGrayAndBinary/refs/heads/main/img/Desafio_Reducao_Img.png)
+![Challenge](https://raw.githubusercontent.com/wekers/imageConvert-toGrayAndBinary/refs/heads/main/img/Challenge_Reduce_Img.png)
 
 **NOTE:** The professor have say in the explanatory video of the activity, do not use external libraries, but convert the image via hardcode.
 - - -
